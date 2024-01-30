@@ -1,0 +1,27 @@
+.footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #333; /* Cambia el color de fondo según tus preferencias */
+    color: white;
+    padding: 20px;
+  }
+  
+  .logo-container img {
+    width: 100px; /* Ajusta el tamaño del logo según sea necesario */
+  }
+  
+  .social-media {
+    margin-top: 10px; /* Ajusta el margen según sea necesario */
+  }
+  
+  .contact-info {
+    margin-top: 20px; /* Ajusta el margen según sea necesario */
+  }
+  
+  .copyright {
+    margin-top: 20px; /* Ajusta el margen según sea necesario */
+    font-size: 14px; /* Tamaño del texto de copyright */
+  }
+  
